@@ -146,15 +146,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-23 15:21 CST）
+## API 状态（最近更新：2025-10-23 16:28 CST）
 
 - 总 API 数量：78
 - 成功 API 数量：77
 - 失败 API 数量：1
 - 平均可用率：99.2%
 - 完美可用率（100%）：60 个
-- 高可用率（80%-99%）：18 个
-- 中等可用率（50%-79%）：0 个
+- 高可用率（80%-99%）：17 个
+- 中等可用率（50%-79%）：1 个
 - 低可用率（<50%）：0 个
 
 <div style="font-size: 11px;">
@@ -237,9 +237,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| ✅ | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| 🚨 | 🎬小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 80 | 20 | 80.0% | 19 |
+| 🚨 | 🎬小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 79 | 21 | 79.0% | 20 |
 <!-- API_TABLE_END -->
 
 
