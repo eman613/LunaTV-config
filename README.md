@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-23 07:17 CST）
+## API 状态（最近更新：2025-10-23 09:28 CST）
 
 - 总 API 数量：78
 - 成功 API 数量：77
@@ -238,8 +238,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
-| ✅ | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
-| 🚨 | 🎬小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 86 | 14 | 86.0% | 13 |
+| ✅ | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
+| 🚨 | 🎬小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 85 | 15 | 85.0% | 14 |
 <!-- API_TABLE_END -->
 
 
