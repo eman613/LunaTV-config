@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-25 23:18 CST）
+## API 状态（最近更新：2025-10-26 00:22 CST）
 
 - 总 API 数量：78
 - 成功 API 数量：77
@@ -221,6 +221,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬量子影视 | https://cj.lziapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ✅ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬量子资源 | https://cj.lzcaiji.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
@@ -228,7 +229,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞乐播资源 | https://lbapi9.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞大地资源 | https://dadiapi.com/feifei2 | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞奥斯卡 | https://aosikazy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ✅ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞番号资源 | http://fhapi9.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
@@ -239,7 +239,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🎬小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 27 | 73 | 27.0% | 72 |
+| 🚨 | 🎬小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 26 | 74 | 26.0% | 73 |
 <!-- API_TABLE_END -->
 
 
