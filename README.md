@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-29 07:18 CST）
+## API 状态（最近更新：2025-10-29 09:41 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：79
 - 失败 API 数量：1
-- 平均可用率：98.7%
+- 平均可用率：98.6%
 - 完美可用率（100%）：60 个
 - 高可用率（80%-99%）：19 个
 - 中等可用率（50%-79%）：0 个
@@ -241,7 +241,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬魔爪资源 | https://jjpz.hafrey.dpdns.org/?url=https://mozhuazy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| 🚨 | 🎬豪华资源 | https://hhzyapi.com/api.php/provide/vod | 43 | 57 | 43.0% | 57 |
+| 🚨 | 🎬豪华资源 | https://hhzyapi.com/api.php/provide/vod | 42 | 58 | 42.0% | 58 |
 <!-- API_TABLE_END -->
 
 
